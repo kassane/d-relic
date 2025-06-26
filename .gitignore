@@ -14,6 +14,9 @@
 # Executables
 *.exe
 
+# Build path
+build/
+
 # DUB
 .dub
 docs.json
@@ -22,3 +25,6 @@ docs/
 
 # Code coverage
 *.lst
+
+# Dependencies
+relic-main/
